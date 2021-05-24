@@ -3,7 +3,7 @@
 ## Something about me:
 - 🏠 Based in Milan and Ferrara, in Italy
 - 🖥️ Data Analyst and Consultant at Softlab SpA
-- 📖 Data Science student at UniMi with Bachelor in Economics
+- 📖 Data Science student at UniMi with Bachelor's Degree in Economics
 
 ___
 
