@@ -1,6 +1,6 @@
  <h1 style="font-size:50px;text-align:center;"> Hi all, I'm Filippo! 🤝 </h1>
 
-## Something about me:
+## 🕵️ Something about me:
 - 🏠 Based in Milan and Ferrara, in Italy
 - 🖥️ Data Analyst and Consultant at Softlab SpA
 - 📖 Data Science student at UniMi with Bachelor's Degree in Economics
@@ -38,7 +38,7 @@ ___
 
 ___
 
-## Find me on:
+## 💌 Find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filippomenegatti/)](https://www.linkedin.com/in/filippomenegatti/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fmenegatti)](https://twitter.com/fmenegatti)
