@@ -1,7 +1,7 @@
  <h1 style="font-size:50px;text-align:center;"> Hi all, I'm Filippo! 🤝 </h1>
 
 ## 🕵️ Something about me:
-- 🏠 Based in Milan and Ferrara, in Italy
+- 🏠 Based in Milan and Ferrara, Italy
 - 🖥️ Data Analyst and Consultant at Softlab SpA
 - 📖 Data Science student at UniMi with Bachelor's Degree in Economics
 
