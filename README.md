@@ -20,21 +20,6 @@ ___
 <!--
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=filippomenegatti&show_icons=true&theme=tokyonight" alt="filippomenegatti" />
 -->
-___
-
-## 🦸‍♂️ Some stats:
-
-<div>
-  <p align="center">
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=filippomenegatti&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=filippomenegatti&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=filippomenegatti&hide=php&theme=tokyonight">
-  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=filippomenegatti&hide=php&theme=tokyonight" />
-</a>
-    </p>
-</div>
 
 ___
 
