@@ -3,7 +3,7 @@
 ## 🕵️ Something about me:
 - 🏠 Based in Milan and Ferrara, Italy
 - 🖥️ Analyst at Prima Assicurazioni SpA
-- 📖 Data Science student at UniMi with Bachelor's Degree in Economics
+- 📖 Former Data Science student at UniMi with Bachelor's Degree in Economics
 
 ___
 
